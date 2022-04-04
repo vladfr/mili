@@ -2,6 +2,10 @@
     background: #5EB2C9;
 }
 
+.main-header-mobile a {
+    color: white;
+}
+
 article img {
     border-radius: 16px;
 }
