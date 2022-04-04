@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La masă cu Mili</title>
+    <link>http://example.org/</link>
+    <description>Recent content on La masă cu Mili</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro</language>
+    <lastBuildDate>Mon, 04 Apr 2022 22:13:38 +0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spaghete cu midii în sos de ceapă verde</title>
+      <link>http://example.org/posts/spaghete-midii-ceapa/</link>
+      <pubDate>Mon, 04 Apr 2022 22:13:38 +0300</pubDate>
+      
+      <guid>http://example.org/posts/spaghete-midii-ceapa/</guid>
+      <description>Am spalat 500 gr midii si le-am curatat de aripi.</description>
+    </item>
+    
+  </channel>
+</rss>
